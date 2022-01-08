@@ -1,2 +1,2 @@
-# websocket-server
-WebSocket Server
+# websockets-test
+WebSockets test
